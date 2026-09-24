@@ -2,6 +2,7 @@
 
 - [x] Incorporar los nombres completos de los tres integrantes.
 - [x] Crear el repositorio publico y pegar su URL en README e informe.
+- [ ] Publicar el commit local de la rama `main` en el repositorio de GitHub.
 - [ ] Ejecutar la app desde cero y aceptar el permiso de camara.
 - [ ] Tomar una foto y comprobar que aparece en el perfil.
 - [ ] Probar Play, Pausa y Mute con volumen de dispositivo audible.
