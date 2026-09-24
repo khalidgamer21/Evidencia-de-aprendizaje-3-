@@ -24,6 +24,8 @@ Los tres integrantes apoyan de forma transversal la integracion y las pruebas.
 - RF-06: lista dinamica que actualiza la emisora activa en tiempo real.
 - RF-07: streaming real mediante Media3 ExoPlayer.
 
+El control **MUTE** deshabilita la pista de audio dentro de Media3 y, como proteccion adicional, ajusta el volumen a cero. De esta forma, las aplicaciones de videollamada que capturan el audio durante una pantalla compartida dejan de recibir el sonido de la emisora; **SONIDO** vuelve a habilitarlo.
+
 Si la red del emulador no esta disponible, ExoPlayer activa automaticamente una pista local de respaldo para que la reproduccion fisica y los controles sigan siendo demostrables.
 
 ## Abrir y ejecutar
